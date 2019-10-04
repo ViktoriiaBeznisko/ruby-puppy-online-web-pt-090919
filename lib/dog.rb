@@ -16,5 +16,7 @@ class Dog
   end
   
   def self.print_all
-  print all.Dog
+    print Dog.all
+  end
+  
 end
