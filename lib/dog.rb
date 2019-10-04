@@ -11,4 +11,6 @@ class Dog
     @@all << self
   end
   
+  def.
+  
 end
